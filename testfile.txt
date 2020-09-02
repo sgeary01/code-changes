@@ -1,4 +1,10 @@
-The file has now been updated
+The file has now been updated again to add a copyright
+
+Copyright 2020 Flexera Software LLC 
+See LICENSE.TXT for full license text 
+SPDX-License-Identifier MIT 
+
+
 One
 Two
 Three
